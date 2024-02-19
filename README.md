@@ -1,7 +1,7 @@
 ### Olá!  Eu sou o Alan Henrique
 
-- 🔭 Desenvolvedor Frontend 
-- 🌱 Estudando Angular/Typescript/Javascript/.NET
+- 🔭 Desenvolvedor Fullstack 
+- 🌱 Estudando Angular/Typescript/Javascript/.NET/Blender
 - ⚡ Buscando estágio para mostrar meu potencial
   
 
